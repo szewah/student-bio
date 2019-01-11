@@ -1,0 +1,9 @@
+h1, h2, section {
+    text-align: center;  
+  }
+  
+  ul {
+      width: 18%;
+      margin: auto; 
+      text-align: left;
+  }
